@@ -17,3 +17,5 @@ Fake REST API service:
 1. Clone git repository
 2. Execute npm install in local repo folder
 3. Execute command for run: sudo npm start
+
+Setup of URL: /src/app/service/api.service.ts
