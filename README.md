@@ -4,7 +4,7 @@
 [MicroENV](https://microenv.com)
 
 Example of MicroENV - fake REST API:
-Integration service to angular web application
+Integration service to angular 8 web application
 
 Fake REST API service:
 - Get all users (GET) - https://app.microenv.com/backend/key/014546ad252a5d83568908/rest/users/
